@@ -11,7 +11,7 @@ I this repo I am going to show you an exapmle of my first real world application
 
 Here is the chart I include in the paper. 
 
-<img src="images/copper_content.png" width="360" height="400">
+<img src="images/copper_content.png" width="270" height="300">
 
 
 The chart shows mean copper content in vaious yeast strain. Error bars represent standard deviation. Obtained results
