@@ -18,7 +18,7 @@ were analysed by ANOVA followed by Tukey’s multiple comparison test (n = 3, * 
 
 And here I include the paper title page and an extract from Matherials and Methonds chapter showing that Python and respective libraries were used for data analysis.
 
-<img src="images/copper_content.png" width="457.5" height="200">
+<img src="images/title.png" width="457.5" height="200">
 
 
-<img src="images/copper_content.png" width="457.5" height="283.46">
+<img src="images/methods.png" width="457.5" height="283.46">
