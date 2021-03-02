@@ -11,14 +11,8 @@ I this repo I am going to show you an exapmle of my first real world application
 
 Here is the chart I include in the paper. 
 
-<img src="images/dna_complement.png" width="300" height="404.68">
+<img src="images/copper_content.png" width="180" height="200">
 
 
 The chart shows mean copper content in vaious yeast strain. Error bars represent standard deviation. Obtained results
 were analysed by ANOVA followed by Tukey’s multiple comparison test (n = 3, * p < 0.05, *** p < 0.001).
-
-Check out jupyter notebook for the code and full story behind it
-
-<img src="images/dna_complement.png" width="300" height="404.68">
-
-Also, you may also take a look on the syntax of my create_complementary_strand function, which creates a complementary DNA strand to a given DNA strand. This ilustrates well the concept of DNA complementary.
